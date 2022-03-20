@@ -14,7 +14,7 @@
 *I'm currently a freshman at the university of missouri-columbia*
 **I hope to get a degree in finance**
   ```js
-  friendss = ["nick", "myles", "ari", "mark", "joseph"]
+  friends = ["nick", "myles", "ari", "mark", "joseph"]
   for x in friends:
   print(x)
   ```
