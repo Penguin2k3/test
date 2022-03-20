@@ -1,3 +1,5 @@
 # Ari
 
-###### Myles in from Minneapolis Minnesota. First time being in Missouri. In his free time he likes to watch videos and play basketball at the mizzou rec. 
+###### Ari is my roomate, and is now one of my closest friends. He is very kind and caring and one of the smartest person i know. 
+
+[home](README.md)
