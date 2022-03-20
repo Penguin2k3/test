@@ -5,11 +5,15 @@
 [Here's a website for live sunset cams]{https://www.livebeaches.com/category/sunset-cams/)
 ## Heres a list of some of my friends
 - Nick
+- [Nick Website](nick.md)
 - Myles
-[myles](myles.md)
+[Myles Website](myles.md)
 - Ari
+- [Ari Website](ari.md)
 - Mark
+- [Mark Website](mark.md)
 - Joseph
+- [Joseph Website](joseph.md)
 
 *I'm currently a freshman at the university of missouri-columbia*
 **I hope to get a degree in finance**
