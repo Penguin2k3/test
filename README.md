@@ -6,6 +6,7 @@
 ## Heres a list of some of my friends
 - Nick
 - Myles
+[myles](myles.md)
 - Ari
 - Mark
 - Joseph
